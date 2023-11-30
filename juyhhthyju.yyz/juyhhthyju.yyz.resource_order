@@ -1,4 +1,10 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_canape_bas","order":1,"path":"sprites/spr_canape_bas/spr_canape_bas.yy",},
+    {"name":"spr_commode","order":3,"path":"sprites/spr_commode/spr_commode.yy",},
+    {"name":"spr_canape_haut","order":2,"path":"sprites/spr_canape_haut/spr_canape_haut.yy",},
+    {"name":"spr_commode_3","order":5,"path":"sprites/spr_commode_3/spr_commode_3.yy",},
+    {"name":"spr_commode_2","order":4,"path":"sprites/spr_commode_2/spr_commode_2.yy",},
+  ],
 }
