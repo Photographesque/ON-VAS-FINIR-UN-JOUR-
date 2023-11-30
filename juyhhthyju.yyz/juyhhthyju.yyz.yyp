@@ -277,6 +277,7 @@
     {"id":{"name":"spr_volume_04","path":"sprites/spr_volume_04/spr_volume_04.yy",},},
     {"id":{"name":"obj_porte_puzzle","path":"objects/obj_porte_puzzle/obj_porte_puzzle.yy",},},
     {"id":{"name":"spr_tuyau_mur_06","path":"sprites/spr_tuyau_mur_06/spr_tuyau_mur_06.yy",},},
+    {"id":{"name":"obj_commode_cassable_2","path":"objects/obj_commode_cassable_2/obj_commode_cassable_2.yy",},},
     {"id":{"name":"spr_livre_page02","path":"sprites/spr_livre_page02/spr_livre_page02.yy",},},
     {"id":{"name":"spr_mur_deco","path":"sprites/spr_mur_deco/spr_mur_deco.yy",},},
     {"id":{"name":"spr_pop_up","path":"sprites/spr_pop_up/spr_pop_up.yy",},},
