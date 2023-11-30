@@ -3323,6 +3323,7 @@
     {"name":"inst_881E067","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_29122550","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_5918E0A1","path":"rooms/Level01/Level01.yy",},
+    {"name":"inst_64E73A05","path":"rooms/Level01/Level01.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -3431,6 +3432,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7B72B7A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"properties":[],"rotation":0.0,"scaleX":1.8533334,"scaleY":1.3478261,"x":10368.0,"y":3712.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D52EC1D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_tuyau_cassable_bas","path":"objects/obj_tuyau_cassable_bas/obj_tuyau_cassable_bas.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":9429.926,"y":1792.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5918E0A1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_commode_cassable_1","path":"objects/obj_commode_cassable_1/obj_commode_cassable_1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":6784.0,"y":2112.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_64E73A05","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_cassable","path":"objects/obj_cassable/obj_cassable.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":7360.0,"y":2592.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Portes","depth":1000,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_126CF13E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_porte","path":"objects/obj_porte/obj_porte.yy",},"properties":[],"rotation":0.0,"scaleX":1.25,"scaleY":1.2493507,"x":418.0,"y":2767.0,},
