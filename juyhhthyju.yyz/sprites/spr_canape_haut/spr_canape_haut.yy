@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_canape_haut",
-  "bbox_bottom": 274,
+  "bbox_bottom": 264,
   "bbox_left": 3,
-  "bbox_right": 127,
+  "bbox_right": 122,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -18,7 +18,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 275,
+  "height": 265,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4abcd107-f1a7-4a19-af03-acda01e9d707","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -72,5 +72,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 123,
 }
