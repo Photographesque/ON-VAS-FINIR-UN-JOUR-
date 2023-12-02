@@ -254,7 +254,11 @@ with obj_weapon
 can_shoot = true;
 
 }
+with obj_trou01
+{
+on = 1;
 
+}
 }
 
 else

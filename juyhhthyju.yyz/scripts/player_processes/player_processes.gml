@@ -14,19 +14,21 @@ function get_input()
 	if(keyboard_check(ord("Q"))or keyboard_check(vk_left)) 
 	{
 		left = 1;
+	
 	}
 	if(keyboard_check(ord("D"))or keyboard_check(vk_right)) 
 	{
 		right = 1;
+		
 	}
 	if(keyboard_check(ord("Z"))or keyboard_check(vk_up)) up = 1;
 	if(keyboard_check(ord("S"))or keyboard_check(vk_down)) down = 1;
 	
-	//if (keyboard_check(ord("Q")) || keyboard_check(ord("D")) || keyboard_check(ord("Z")) || keyboard_check(ord("S")))
-	//{
-	//	// Code pour jouer le son de pas ici
-	//	audio_play_sound(Course, 1, false);
-	//}
+	if (keyboard_check(ord("Q")) || keyboard_check(ord("D")) || keyboard_check(ord("Z")) || keyboard_check(ord("S")))
+	{
+		
+		audio_play_sound(Course, 1000, false);
+	}
 	
 }
 
