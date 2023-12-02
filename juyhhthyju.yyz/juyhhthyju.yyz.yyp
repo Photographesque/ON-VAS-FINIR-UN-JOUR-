@@ -303,7 +303,7 @@
     {"id":{"name":"spr_tuyau_puzzle","path":"sprites/spr_tuyau_puzzle/spr_tuyau_puzzle.yy",},},
     {"id":{"name":"obj_tuyau_cassable_bas","path":"objects/obj_tuyau_cassable_bas/obj_tuyau_cassable_bas.yy",},},
     {"id":{"name":"spr_kamikaze_right","path":"sprites/spr_kamikaze_right/spr_kamikaze_right.yy",},},
-    {"id":{"name":"Script10","path":"scripts/Script10/Script10.yy",},},
+    {"id":{"name":"scr_checkpoint","path":"scripts/scr_checkpoint/scr_checkpoint.yy",},},
     {"id":{"name":"Sprite46","path":"sprites/Sprite46/Sprite46.yy",},},
     {"id":{"name":"obj_archive_04","path":"objects/obj_archive_04/obj_archive_04.yy",},},
     {"id":{"name":"spr_affiche01","path":"sprites/spr_affiche01/spr_affiche01.yy",},},

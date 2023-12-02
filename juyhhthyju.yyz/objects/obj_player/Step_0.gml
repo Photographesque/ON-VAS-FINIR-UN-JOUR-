@@ -159,7 +159,7 @@ if (__dnd_lives <=0)
     }
 }
 
-Script10();
+scr_checkpoint();
 
 
 

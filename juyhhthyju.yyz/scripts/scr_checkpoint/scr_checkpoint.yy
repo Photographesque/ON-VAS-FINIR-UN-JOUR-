@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "Script10",
+  "name": "scr_checkpoint",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
