@@ -5,4 +5,4 @@ mp_grid_add_instances(grid,obj_Wall,0)
 mp_grid_add_instances(grid, obj_tuyau_horiz_01, 0)
 mp_grid_add_instances(grid, obj_tuyau_horiz_02, 0)
 mp_grid_add_instances(grid, obj_tuyau_verti_02, 0)
-mp_grid_add_instances(grid, obj_porte_puzzle, 0)
+

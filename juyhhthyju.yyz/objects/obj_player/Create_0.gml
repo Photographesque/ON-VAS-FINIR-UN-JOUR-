@@ -7,6 +7,8 @@ instance_create_layer(0, 0, "Instances_Obj_Weapon", obj_weapon);
 
 instance_create_layer(0, 0, "Instances_pop_up", obj_zone_collision);
 
+instance_create_layer(0, 0, "Instances_pop_up", obj_life);
+
 
 
 // Initialisation des variables
@@ -35,7 +37,7 @@ obj_life_on = 0;
 global.facing = 0
 
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
-__dnd_lives += real(3);
+__dnd_lives += real(4);
 
 //isGamePaused = false;
 
